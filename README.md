@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 <!--
-**caro278ng/caro278ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**caro278ng/caro278ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Nice to meet you, I' am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduate engineer
+🔭 Enthusiast of new technologies
+🌱 Always working on myself
+🌱 I’m currently learning SQL
+🏁 Ready for any challenge
+🤝 Glad to help us mutually
+🔎 Learning from everything
+🎵 Lover of good Music
+
+
