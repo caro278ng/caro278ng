@@ -5,13 +5,13 @@
 
 Nice to meet you, I' am
 
-🎓 Graduate engineer
-🔭 Enthusiast of new technologies
-🌱 Always working on myself
-🌱 I’m currently learning SQL
-🏁 Ready for any challenge
-🤝 Glad to help us mutually
-🔎 Learning from everything
-🎵 Lover of good Music
+-🎓 Graduate engineer
+-🔭 Enthusiast of new technologies
+-🌱 Always working on myself
+-🌱 I’m currently learning SQL
+-🏁 Ready for any challenge
+-🤝 Glad to help us mutually
+-🔎 Learning from everything
+-🎵 Lover of good Music
 
 
