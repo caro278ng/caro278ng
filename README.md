@@ -12,6 +12,6 @@ Nice to meet you, I' am
 - 🏁 Ready for any challenge
 - 🤝 Glad to help us mutually
 - 🔎 Learning from everything
--🎵 Lover of good Music
+- 🎵 Lover of good Music
 
 
