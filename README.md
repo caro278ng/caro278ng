@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Carolina Naranjo 👋
 
 <!--
 **caro278ng/caro278ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
