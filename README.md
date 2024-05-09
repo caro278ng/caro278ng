@@ -24,9 +24,5 @@ Nice to meet you, I' am
 
 
 
-![Static Badge](https://img.shields.io/badge/Excel-darkgreen)
-![Static Badge](https://img.shields.io/badge/SQL-blue)
-![Static Badge](https://img.shields.io/badge/PowerBI-yellow)
-
 
 
