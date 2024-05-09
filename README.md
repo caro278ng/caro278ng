@@ -24,7 +24,8 @@ Nice to meet you, I' am
 
 Algunos proyectos Personales:
 
-![image](https://github.com/caro278ng/caro278ng/assets/35504478/2d9bc8c8-bc77-4797-a567-af23a9ea43f1)
+
+
 
 
 
