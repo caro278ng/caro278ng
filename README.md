@@ -16,4 +16,5 @@ Nice to meet you, I' am
 
 
 💻 Tecnologías:
-- https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+![Static Badge](https://img.shields.io/badge/Python-Python)
+
