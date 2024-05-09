@@ -22,6 +22,10 @@ Nice to meet you, I' am
 ![Static Badge](https://img.shields.io/badge/PowerBI-61DBFB?style=for-the-badge&logo=Powerbi&labelColor=black&color=yellow)
 
 
+Algunos proyectos Personales:
+
+![image](https://github.com/caro278ng/caro278ng/assets/35504478/2d9bc8c8-bc77-4797-a567-af23a9ea43f1)
+
 
 
 
