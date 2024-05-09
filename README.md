@@ -15,3 +15,5 @@ Nice to meet you, I' am
 - 🎵 Lover of good Music
 
 
+💻 Tecnologías:
+python excel tableau mysql
