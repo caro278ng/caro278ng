@@ -18,6 +18,8 @@ Nice to meet you, I' am
 💻 Tecnologías:
 ![Static Badge](https://img.shields.io/badge/Python-61DBFB?style=for-the-badge&logo=Python&labelColor=black&color=FFFF00)
 ![Static Badge](https://img.shields.io/badge/Postgresql-61DBFB?style=for-the-badge&logo=Postgresql&labelColor=silver&color=blue)
+![Static Badge](https://img.shields.io/badge/Excel-61DBFB?style=for-the-badge&logo=EXCEL&labelColor=black&color=darkgreen)
+
 
 
 ![Static Badge](https://img.shields.io/badge/Excel-darkgreen)
