@@ -16,4 +16,4 @@ Nice to meet you, I' am
 
 
 💻 Tecnologías:
-python excel tableau mysql
+- https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
