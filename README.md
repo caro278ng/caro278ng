@@ -23,6 +23,8 @@ Nice to meet you, I' am
 
 ### 💻 Learning with:
 ![Static Badge](https://img.shields.io/badge/Platzi-61DBFB?style=for-the-badge&logo=Platzi&labelColor=black&color=green)
+![Static Badge](https://img.shields.io/badge/Udemy-61DBFB?style=for-the-badge&logo=Udemy&labelColor=black&color=purple)
+
 
 
 ### Some personal Projects:
