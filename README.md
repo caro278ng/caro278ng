@@ -25,6 +25,8 @@ Nice to meet you, I' am
 ![Static Badge](https://img.shields.io/badge/Platzi-61DBFB?style=for-the-badge&logo=Platzi&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/Udemy-61DBFB?style=for-the-badge&logo=Udemy&labelColor=black&color=purple)
 ![Static Badge](https://img.shields.io/badge/Coursera-61DBFB?style=for-the-badge&logo=Coursera&labelColor=black&color=blue)
+![Static Badge](https://img.shields.io/badge/Platzi-61DBFB?style=for-the-badge&logo=Platzi&labelColor=black&color=green&link=https%3A%2F%2Fplatzi.com%2Fp%2Fcarolina-naranjo-garcia%2F)
+
 
 
 
