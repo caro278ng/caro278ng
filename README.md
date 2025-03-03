@@ -11,7 +11,7 @@ Nice to meet you, I' am
 - 🌱 Currently working with SQL & Power BI
 - 🏁 Ready for any challenge
 - 🤝 Glad to help us mutually
-- 🔎 Learning from everything
+- 🔎 Learning Python
 - 🎵 Lover of good Music
 
 ### 💻 Technologies:
