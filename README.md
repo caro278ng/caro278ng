@@ -5,10 +5,10 @@
 
 Nice to meet you, I' am
 
-- 🎓 Graduate engineer
+- 🎓 Graduate Engineer | MSc in Data Science (in progress)
 - 🔭 Enthusiast of new technologies
 - 🌱 Always working on myself
-- 🌱 I’m currently learning SQL
+- 🌱 Currently working with SQL & Power BI
 - 🏁 Ready for any challenge
 - 🤝 Glad to help us mutually
 - 🔎 Learning from everything
